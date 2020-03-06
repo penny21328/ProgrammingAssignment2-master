@@ -1,4 +1,4 @@
-## This s an R function which is able to cache potentially time-consuming computations.
+## This is an R function which is able to cache potentially time-consuming computations.
 
 ## This function creates a special "matrix" object that can cache its inverse.
 
